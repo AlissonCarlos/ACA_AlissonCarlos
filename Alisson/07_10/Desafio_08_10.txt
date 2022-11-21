@@ -1,0 +1,3 @@
+No cadastrar Turma tem os dois desafio
+Cadastrar Professor - 1 Parte
+Cadastrar Estudante - 2 Parte com exclusao e limpar.
